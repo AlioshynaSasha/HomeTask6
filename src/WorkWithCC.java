@@ -1,4 +1,4 @@
-public class Test {
+public class WorkWithCC {
     public static void main(String[] args) {
         CreditCard firstCard = new CreditCard("12345AA6789", 200.0);
         CreditCard secondCard = new CreditCard("98765BB4321", 50000.0);
